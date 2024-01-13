@@ -40,6 +40,6 @@ def slice_videos(input_folder, output_folder, gif_duration_sec=10):
       
 input_folder = "input_path"
 output_folder = "output_path"
-clip_duration_sec = 10
+gif_duration_sec = 10
 
 slice_videos(input_folder, output_folder, gif_duration_sec)
